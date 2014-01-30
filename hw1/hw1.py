@@ -111,4 +111,4 @@ symmetric = None
 transitive = {8, 16, 21}
 
 #4b
-#S = { x for x in set(range(1, 1200)) for y in set(range(1, 1200)) if not square(x) and createSquare(x, y) }
+S = { x for x in set(range(1, 1200)) for y in set(range(1, 1200)) if not square(x) and createSquare(x, y) }
