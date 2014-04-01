@@ -1,3 +1,10 @@
+#####
+# Tyler Waltze
+# 3/31/14
+# CS 235
+# HW #4
+#####
+
 from math import floor
 from fractions import gcd
 from random import random
